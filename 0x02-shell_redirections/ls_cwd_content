@@ -1,0 +1,20 @@
+total 68
+drwxrwxr-x 2 abibatoul abibatoul  4096 sep  5 20:52 .
+drwxrwxr-x 6 abibatoul abibatoul  4096 sep  5 20:02 ..
+-rwxrwxr-x 1 abibatoul abibatoul    30 sep  5 20:10 0-hello_world
+-rw-r--r-- 1 abibatoul abibatoul 12288 sep  5 20:07 .0-hello_world.swp
+-rwxrwxr-x 1 abibatoul abibatoul     0 sep  5 20:02 10-no_more_js
+-rwxrwxr-x 1 abibatoul abibatoul     0 sep  5 20:02 11-directories
+-rwxrwxr-x 1 abibatoul abibatoul    28 sep  5 20:16 1-confused_smiley
+-rwxrwxr-x 1 abibatoul abibatoul    28 sep  5 20:17 2-hellofile
+-rwxrwxr-x 1 abibatoul abibatoul    47 sep  5 20:21 3-twofiles
+-rwxrwxr-x 1 abibatoul abibatoul    35 sep  5 20:23 4-lastlines
+-rwxrwxr-x 1 abibatoul abibatoul    36 sep  5 20:25 5-firstlines
+-rwxrwxr-x 1 abibatoul abibatoul    40 sep  5 20:41 6-third_line
+-rwxrwxr-x 1 abibatoul abibatoul    82 sep  5 20:50 7-file
+-rwxrwxr-x 1 abibatoul abibatoul    36 sep  5 20:52 8-cwd_state
+-rwxrwxr-x 1 abibatoul abibatoul     0 sep  5 20:02 9-duplicate_last_line
+-rw-rw-r-- 1 abibatoul abibatoul    12 sep  5 20:50 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 abibatoul abibatoul   802 sep  5 20:38 iacta
+-rw-rw-r-- 1 abibatoul abibatoul     0 sep  5 20:52 ls_cwd_content
+-rw-rw-r-- 1 abibatoul abibatoul     7 sep  5 20:12 README.md
